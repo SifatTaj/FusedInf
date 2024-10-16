@@ -6,4 +6,4 @@ models into a single Direct Acyclic Graph (DAG) to efficiently
 load the models into the GPU memory and make execution
 faster.
 
-Demos and other helper modules will be added soon.
+_Demos and other helper modules will be added soon._
